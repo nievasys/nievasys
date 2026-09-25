@@ -35,6 +35,6 @@ Software Developer **FrontEnd/Full Stack** · 3rd-year Computer Science student 
 
 ## 📈 Actividad / Activity
 
-[![Agustin Nieva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nievasys&theme=react-dark&hide_border=true&area=true)](https://github.com/nievasys/github-readme-activity-graph)
+[![Agustin Nieva's github activity graph](https://github-activity-chart.vercel.app/graph?username=nievasys&theme=react-dark&hide_border=true&area=true)](https://github.com/nievasys/github-readme-activity-graph)
 
 </div>
