@@ -12,13 +12,13 @@
                                                            ░███████  
 </pre>
 
-## 👋 ¡Hola! Soy **Agustín Nieva** (`@nievasys`)
+## 👋 ¡Hola! Soy **Agustín Nieva** (`@nievasys`) · 🌐 [nievasys.dev](https://nievasys.dev)
 
 Desarrollador de Software **FrontEnd/Full Stack** · Estudiante de 3.er año de la **Lic. en Sistemas (UNLa)**
 
 ---
 
-## 👋 Hello! I'm **Agustín Nieva** (`@nievasys`)
+## 👋 Hello! I'm **Agustín Nieva** (`@nievasys`) · 🌐 [nievasys.dev](https://nievasys.dev)
 
 Software Developer **FrontEnd/Full Stack** · 3rd-year Computer Science student at **UNLa**
 
@@ -36,5 +36,10 @@ Software Developer **FrontEnd/Full Stack** · 3rd-year Computer Science student 
 ## 📈 Actividad / Activity
 
 [![Agustin Nieva's github activity graph](https://github-activity-chart.vercel.app/graph?username=nievasys&theme=react-dark&hide_border=true&area=true)](https://github.com/nievasys/github-readme-activity-graph)
+
+## 🌐 Web / Contacto
+
+🌐 [nievasys.dev](https://nievasys.dev)
+📧 [nievasys.dev@gmail.com](mailto:nievasys.dev@gmail.com)
 
 </div>
